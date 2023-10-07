@@ -3,7 +3,7 @@
   <h1 align="center">
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
 
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TamilanBotsZ/PremiumFilter)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/theriturajps/Auto-Filter-Inline-Bot)   
     </h1>
 
 # 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ theriturajps
@@ -74,8 +74,6 @@ Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
 ## Dᴇᴘᴏʟʏ
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 
-<a href=https://github.com/TamilanBotsZ/PremiumFilter/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
-
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
@@ -98,7 +96,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/PremiumFilter&branch=Tamilans-Working-Branch">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/theriturajps/Auto-Filter-Inline-Bot&branch=master">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
   </a
   </p>
@@ -107,7 +105,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TamilanBotsZ/PremiumFilter">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/theriturajps/Auto-Filter-Inline-Bot">
   <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
   </a>
   </p>
@@ -115,7 +113,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
 <p>
 <br>
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilanBotsZ%2FPremiumFilter">
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Ftheriturajps/Auto-Filter-Inline-Bot">
   <img src="https://railway.app/button.svg" alt="deploy-to-railway">
   </a>
   </p>
@@ -124,10 +122,10 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <p>
 You must have the latest version of <a href="golang.org">go</a> installed first
 <pre>
-git clone https://github.com/TamilanBotsZ/PremiumFilter
-cd AwesomeFilterPro
+git clone https://github.com/theriturajps/Auto-Filter-Inline-Bot
+cd Auto-Filter-Inline-Bot
 go build .
-./PremiumFilter
+./Auto-Filter-Inline-Bot
 </pre>
 </p>
 </details>
@@ -150,9 +148,6 @@ chats - 🕳️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs ɪɴғᴏ
 broadcast - 🔮 ʙʀᴏᴀᴅᴄᴀsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ )
 link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
-
-## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
 ## Tʜᴀɴᴋs Tᴏ 
  <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
